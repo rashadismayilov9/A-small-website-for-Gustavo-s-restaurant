@@ -1,0 +1,220 @@
+body{
+    margin: 0;
+      height: 100vh; 
+      background-image: url("photo3.jpg");
+      background-size: cover;   
+      background-position: center; 
+      background-repeat: no-repeat; 
+      background-attachment: fixed;
+}
+header{
+   margin-top: 10px;
+   background-color: black;
+   color: white;
+   padding: 16px;
+   border-radius: 16px
+;
+}
+h1{
+   text-align: center;
+  font-family: "Merriweather" sans-serif; 
+   text-shadow: 0 4px 12px white;
+}
+.nav1{
+  background-color: gray;
+  position: relative;
+  top: -20px;
+  border-radius: 16px;
+}
+.ul1{
+  font-size: 25px;
+   display: flex;
+   gap: 10px;
+   padding: 0;
+list-style: none;
+justify-content: center;
+font-family: "Merriweather" , sans-serif;
+}
+.li1{
+background-color: black;
+color: white;
+border: 2px solid white;
+margin: 10px;
+padding: 10px;
+border-radius: 24px;
+font-size: 20px;
+   box-shadow: 0 4px 12px white;
+   font-family: "Merriweather" sans-serif;
+
+}
+.ul2{
+ list-style: none;        
+  display: flex;           
+  justify-content: center; 
+  gap: 20px;              
+  padding: 0;
+}
+.li2{
+   display: flex;
+  flex-direction: column;  
+  align-items: center;     
+  text-decoration: none;    
+  color: black;
+  font-weight: bold;
+}
+.img1{
+  width: 450px;
+   height: auto;
+   border-radius: 16px;
+   border: 2px solid white;
+   box-shadow: 0 4px 12px white;
+
+}
+a{
+   text-decoration: none;
+   color: white;
+}
+.p1{
+   font-family: "Merriweather" , sans-serif;
+   font-size: 25px;
+background-color: black;
+color: white;
+border-radius: 16px;
+border: 2px solid white;
+padding: 5px;
+text-align: center;
+box-shadow: 0 4px 12px white;
+}
+.div1{
+margin-top: 100px;
+   text-align: center;
+}
+.span1{
+   background-color: black;
+   text-align: center;
+font-size: 30px;
+color: white;
+box-shadow: 0 4px 12px white;
+padding: 10px;
+border: 2px;
+border-radius: 16px;
+}
+.div2{
+  display: flex;         
+  align-items: center;   
+  gap: 20px;            
+   background-color: black;
+   margin: 30px;
+   text-align: center;
+   width: auto;
+   height: auto;
+   border: 2px solid white;
+box-shadow: 0 4px 12px white;
+}
+.p2{
+   color: white;
+   font-size: 30px;
+   font-family: "Merriweather" sans-serif;
+}
+.dl1{
+   justify-content: center;
+   font-weight: bold;
+  text-align: center;
+}
+.dt1{
+   font-size: 20px;
+   font-family: "Merriweather" sans-serif;
+   background-color: black;
+   color: white;
+   padding: 10px;
+   display: inline-block;
+margin: 10px;
+border: 2px solid white;   
+   box-shadow: 0 4px 12px;
+   border-radius: 16px;
+   text-align: center;
+   
+}
+.dd1{
+   font-size: 20px;
+   font-family: "Merriweather" sans-serif;
+   text-shadow: 4px 4px 12px white;
+} 
+
+.h2{
+   font-size: 25px;
+   text-shadow: 4px 4px 12px white;
+}
+.p3{
+
+   color: white;
+   background-color: black;
+  display: inline;
+  border: 2px solid white;
+  box-shadow: 0 4px 12px white;
+  border-radius: 16px;
+  padding: 5px;
+}
+.div3{
+
+   display: flex;
+  flex-direction: column; 
+  justify-content: center; 
+  align-items: center;     
+  height: auto;           
+
+}
+.div4{
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;  
+  padding: 4px 8px;          
+  border-radius: 4px;    
+}
+.label1{
+  font-size: 24px;
+  font-family: "Merriweather" sans-serif;
+   color: white;
+}
+.input1{
+   display: flex;
+align-items: normal;
+   font-size: 22px;
+   box-shadow: 0 4px 12px white;
+}
+.input2{
+  border-radius: 16px;
+   background-color: white;
+   font-family: "Merriweather" sans-serif bold;
+   font-size: 24px;
+}
+.box1{
+   border-radius: 4px;
+   box-shadow: 0 4px 12px white;
+}
+.app{
+  color: white;
+  
+
+}
+.appr{
+   display: flex;
+  align-items: center;
+  gap: 20px;
+   
+}
+.options{
+font-size: 24px;
+font-family:"Merriweather" sans-serif bold;
+}
+.div5{
+   background-color: black;
+   margin-top: 30px;
+   display: flex;        
+   flex-direction: column;
+   align-items: center;
+   gap: 10px;
+   text-align: center;   
+}
